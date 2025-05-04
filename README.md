@@ -32,7 +32,4 @@ Tujuan:
 ## 4. Laporan
 Laporan ini membahas implementasi teknik dasar pengolahan citra digital berupa deteksi warna, simulasi backlight, dan metode ambang batas untuk mengekstraksi informasi visual dari citra menggunakan Python dan OpenCV, lengkap dengan penjelasan teori, hasil praktikum, serta analisis dari masing-masing metode yang digunakan.
 
-Nama : Rama Dinantiar
-NIM : 202331044
-Mata Kuliah : Pengolahan Citra Digital
-Kelas : C
+Rama Dinantiar (202331044)
